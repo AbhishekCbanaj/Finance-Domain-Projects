@@ -3,11 +3,11 @@
 
 Project Completion    | Tools Used
 ---------------  | ----------------- 
-[Bank Loan Report](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Bank%20Loan%20Report)    | Power BI, Excel, SQL
-[Credit Card Fraud Detection](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Credit%20Card%20Fraud%20Detection)   | Python
-[Bank Customer Churn Prediction](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Customers%20Churn%20Prediction)     | Python, Power BI
-[Credit Card Transaction Report](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Credit%20Card%20Transaction%20Report)     | SQL, Python
-[BitCoin/Cryptocurrency Analysis](https://github.com/Aayush-Basnet/Finance-Domain/tree/main/Bitcoin_Cryptocurrency%20Analysis)    | Python
+[Bank Loan Report](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/tree/master/Bank%20Loan%20Report)    | Power BI, Excel, SQL
+[Credit Card Fraud Detection](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/tree/master/Credit%20Card%20Fraud%20Detection)   | Python
+[Bank Customer Churn Prediction](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/tree/master/Customers%20Churn%20Prediction)     | Python, Power BI
+[Credit Card Transaction Report](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/tree/master/Credit%20Card%20Transaction%20Report)     | SQL, Python
+[BitCoin/Cryptocurrency Analysis](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/tree/master/Bitcoin_Cryptocurrency%20Analysis)    | Python
 [Credit Card Complaint](https://public.tableau.com/app/profile/aayush.chhettri/viz/CreditCardComplaints_17199940642160/Dashboard)     | Tableau
 
 
@@ -22,7 +22,7 @@ Project Completion    | Tools Used
 - Data Visualization: Created interactive dashboards in Power BI to visualize key metrics and trends.
 
 
-![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/89550752712cc3c2bb52f658c29e1ef71669650d/Credit%20Card%20Transaction%20Report/Images/Trasnaction-Home%20Report.png)
+![alt text](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/blob/master/Credit%20Card%20Transaction%20Report/Images/Trasnaction-Home%20Report.png)
 
 #### Week-over-Week Changes: 📅 
   - Revenue increased by 28.8%
@@ -30,7 +30,7 @@ Project Completion    | Tools Used
   - Customer count grew by 12.8%
 
 #### Customer Report
-![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/89550752712cc3c2bb52f658c29e1ef71669650d/Credit%20Card%20Transaction%20Report/Images/Customer%20Report.png)
+![alt text](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/blob/master/Credit%20Card%20Transaction%20Report/Images/Customer%20Report.png)
 
 #### Year-to-Date Overview: 💻 
   - Overall revenue: $56.5M
@@ -50,7 +50,7 @@ Project Completion    | Tools Used
   - Transaction Methods: Swipe transactions generate the most revenue.
   - Customer Job: Businessmen contribute the most revenue followed by White-collar
 #### Customer Details
-![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/89550752712cc3c2bb52f658c29e1ef71669650d/Credit%20Card%20Transaction%20Report/Images/Customer%20Details%20Report.png)
+![alt text](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/blob/master/Credit%20Card%20Transaction%20Report/Images/Customer%20Details%20Report.png)
 
 #### Overview
   - Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
@@ -59,7 +59,7 @@ Project Completion    | Tools Used
 
 
 #### Income Report
-![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/89550752712cc3c2bb52f658c29e1ef71669650d/Credit%20Card%20Transaction%20Report/Images/Income%20Report.png)
+![alt text](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/blob/master/Credit%20Card%20Transaction%20Report/Images/Income%20Report.png)
 
 
 -------------------------------------------------------------------------------------
@@ -68,7 +68,7 @@ Project Completion    | Tools Used
 
 Customer's Churn Analysis and Modeling is a comprehensive project focused on understanding and predicting customer churn in the Banking industry. Utilizing advanced data analysis and machine learning techniques, this project aims to provide insights into customer behavior and help develop effective strategies for customer.
 
-![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/9db6c81307feebfe38e68e04d3aa938778b94004/Customers%20Churn%20Prediction/Customer%20Chrun%20Prediction.png)
+![alt text](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/blob/master/Customers%20Churn%20Prediction/Customer%20Chrun%20Prediction.png)
 
 #### Working Flow:
 In order to create a model these are the following procedure -
@@ -90,7 +90,7 @@ In order to create a model these are the following procedure -
 
 
 #### Summary Dashboard
-![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/5ce96996c2a96e5f78eba80129abe11f7f653b29/Bank%20Loan%20Report/Images/Summary%20Dashboard%20Power%20BI.png)
+![alt text](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/blob/master/Bank%20Loan%20Report/Images/Summary%20Dashboard%20Power%20BI.png)
 
 ##### Key Performance Metrics
   - Total Loan Applications: 38.6K applications received, with a 6.9% MTD growth.
@@ -100,7 +100,7 @@ In order to create a model these are the following procedure -
   - Average Debt-to-Income (DTI) Ratio: 13.33%, reflecting a 2.7% MTD decrease, indicating a lower risk portfolio.
 
 #### Overview Dashboard
-![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/5ce96996c2a96e5f78eba80129abe11f7f653b29/Bank%20Loan%20Report/Images/Overview%20Dashboard%20Power%20BI.png)
+![alt text](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/blob/master/Bank%20Loan%20Report/Images/Overview%20Dashboard%20Power%20BI.png)
 
 ##### Loan Performance Analysis
   1. Good Loan Issued: Strong Performance
@@ -112,10 +112,10 @@ In order to create a model these are the following procedure -
       -  5.3K applications resulted in a funded amount of $65.5M, but only $37.3M has been recovered, leading to potential losses.
 
 #### Details Dashboard
-![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/5ce96996c2a96e5f78eba80129abe11f7f653b29/Bank%20Loan%20Report/Images/Detials%20Dashboard%20Power%20BI.png)
+![alt text](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/blob/master/Bank%20Loan%20Report/Images/Detials%20Dashboard%20Power%20BI.png)
 
 
-The bank’s loan portfolio is performing well overall, with a high proportion of good loans (85.9%) and strong fund recovery. However, bad loans (14.1%) pose some risks, requiring better risk management, stricter lending policies, and improved loan collection strategies. By optimizing interest rates, DTI ratios, and loan diversification, the bank can further enhance profitability and reduce credit risk.
+The bank's loan portfolio is performing well overall, with a high proportion of good loans (85.9%) and strong fund recovery. However, bad loans (14.1%) pose some risks, requiring better risk management, stricter lending policies, and improved loan collection strategies. By optimizing interest rates, DTI ratios, and loan diversification, the bank can further enhance profitability and reduce credit risk.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -123,11 +123,11 @@ The bank’s loan portfolio is performing well overall, with a high proportion o
 
 By addressing common complaints promptly, companies can prevent customer churn, improve retention rates, and maintain a positive reputation. This dashboard helps streamline operations as it provides deep insights into customer sentiments and pain points related to credit cards.
 
-![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/3aad85f013ae0fca69e0ab5136acc91aa0c03db4/Credit%20Card%20Fraud%20Detection/credit%20card%20complaints.jpg)
+![alt text](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/blob/master/Credit%20Card%20Fraud%20Detection/credit%20card%20complaints.jpg)
 
-#### Let’s break down the key components of this dashboard: 🔍📊
+#### Let's break down the key components of this dashboard: 🔍📊
   - Total Complaints: This section displays the overall count of credit card-related complaints received. 👨‍💻
-  - Rolling 12 Months: I’ve visualized the trend of complaints over the past year, highlighting any spikes or patterns. 📅
+  - Rolling 12 Months: I've visualized the trend of complaints over the past year, highlighting any spikes or patterns. 📅
   - Timely Responses: It shows how promptly complaints are addressed by the relevant teams. ⏳
   - In Progress: Visualizing the complaints that are actively being worked on or investigated. 📈
   - Monthly Trends: A bar graph illustrating how complaint volumes fluctuate month by month. 📶
@@ -148,7 +148,7 @@ By analyzing complaint data, companies can understand recurring issues, identify
 
 The datasets contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
-![alt text](https://github.com/Aayush-Basnet/Finance-Domain/blob/502c12f6d208599e0e413e8b8d1e2e6abb5f6d9a/Credit%20Card%20Fraud%20Detection/image.png)
+![alt text](https://github.com/AbhishekCbanaj/Finance-Domain-Projects/blob/master/Credit%20Card%20Fraud%20Detection/image.png)
 
 [download Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
 
